@@ -5,7 +5,6 @@
 Author: Sjors101 <https://github.com/sjors101/>, 22/08/2017-->
 <style>
 body {
-/*    background-color: magenta;*/
     padding-top: 15px;
     text-align: center;
     font-size: 160%;
